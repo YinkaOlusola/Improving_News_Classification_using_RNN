@@ -2,15 +2,15 @@
 
 ## Introduction
 
- In this project, I've explored the fascinating field of natural language processing (NLP) and machine learning to develop a powerful news classification system.
+ In this project, I explored the fascinating field of natural language processing (NLP) and machine learning to develop a powerful News classification system.
 
  <br>
 
-The proliferation of news articles across various online platforms presents a challenge in efficiently categorizing and organizing information. Traditional methods often fall short in handling the nuances and complexities of natural language. To address this, I've leveraged the capabilities of recurrent neural networks (RNNs), a class of artificial neural networks designed to handle sequential data.
+The proliferation of news articles across various online platforms presents a challenge in efficiently categorizing and organizing information. Traditional methods often fall short in handling the nuances and complexities of natural language. To address this, I leveraged the capabilities of recurrent neural networks (RNNs), a class of artificial neural networks designed to handle sequential data.
 
 <br>
 
-Using a dataset consisting of news articles from diverse sources, I've trained and fine-tuned RNN models to accurately classify news articles into different categories, such as politics, sports, technology, and entertainment. Through meticulous preprocessing, feature engineering, and model optimization, I've strived to achieve high accuracy and robustness in classification tasks.
+Using a dataset of news articles from diverse sources, I trained and fine-tuned RNN models to accurately classify news articles into different categories, such as politics, sports, technology, and entertainment. I strived to achieve high accuracy and robustness in classification tasks through meticulous preprocessing, feature engineering, and model optimisation.
 
 <br>
 
